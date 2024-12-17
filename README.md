@@ -1,7 +1,5 @@
 ## Best full stack ecommerce website
 
-![fullstack_ecommerce_website_using_reactjs]
-
 ### To initialize the project:
 * Clone the project from this repo,
 * cd into admin directory
